@@ -2,6 +2,7 @@ function App() {
   return (
     <div className="w-screen h-screen bg-orange-300 flex flex-col gap-5 justify-center items-center">
       <h1 className="text-4xl hover:text-white animate-float">Instagram</h1>
+      <h1 className="text-4xl hover:text-white animate-float">Instagram</h1>
       <div>
         <div className="flex flex-col gap-3 w-[300px]">
           <input
